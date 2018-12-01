@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8" />
+<link href="kotisivu.css" rel="StyleSheet" type="text/css" />
+<title>Kasper Kumpulainen</title>
+</head>
+<body>
+<h1>Kasper Kumpulainen</h1>
+<!--#include virtual="/~kaveviku/KasperKumpulainen/KKnavbar.include"-->
+<p>
+</p>
+</body>
+</html>
